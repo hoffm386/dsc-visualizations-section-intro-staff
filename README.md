@@ -5,6 +5,9 @@
 
 In this lesson, you'll get a more thorough overview of data visualization, Python's libraries, and how to create successful visualizations. 
 
+This section takes for granted having gone through the **Data Visualization** lab in the Python section well enough that you're familiar with how to create graphs in Matplotlib and alter their attributes, such as labels for axes.  
+
+If you need to do so, go back over that lesson again!  
 
 ## Data Visualization
 
